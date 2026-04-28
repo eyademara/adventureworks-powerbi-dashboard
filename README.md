@@ -60,10 +60,10 @@ The dashboard provides insights into revenue trends, customer behavior, product 
 
 ## 📷 Dashboard Preview
 
-![Overview](images/dashboard_overview.png)
-![Map](images/map.png)
-![Product Analysis](images/product.png)
-![Customer Insights](images/customers.png)
+![Executive Dashboard](images/Executive Dashboard.png)
+![Map](images/Map.png)
+![Product Details](images/Product Details.png)
+![Customer Details](images/Customer Details.png)
 
 ---
 
